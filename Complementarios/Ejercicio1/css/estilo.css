@@ -1,0 +1,23 @@
+*{
+    padding: 15;
+    margin: 20;
+}
+/*diseño de h1 en js*/
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+    margin: 40%;
+    font-size: x-large;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 100%;
+    height: 25%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
